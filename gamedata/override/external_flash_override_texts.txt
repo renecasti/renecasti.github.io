@@ -1,0 +1,23 @@
+wulles=wulles
+sirio=sirio
+
+notification.hotel.event.linkTitle=¡Ir al Evento!
+notification.hotel.event.linkUrl=event:navigator/goto/%ROOMID%
+notification.hotel.event.message=<b>¡Hay un nuevo evento en este momento!</b><br><br>Se trata de <font color="#2CB3D1"><b>%MESSAGE%</b></font> por <font color="#F53030"><b>%USERNAME%</b></font></br></br><br><br>Si quieres participar abre el navegador y en la sección de eventos apareceran los eventos disponibles</br></br></br><br><br><b>¿De que trata este Evento?</b></br><br>Ven a divertirte con los juegos mas clasicos y emocionantes todos los dias</br><br><br><b>¡Te esperamos!</b></br>
+notification.hotel.event.title=Evento Oficial
+arcturus=arcturus
+habbo=habbo
+catalog.description=
+notification.about.title=InformaciĂłn del Servidor
+notification.about.message=Bienvenid@s a Kekotel, actualmente contamos con la emulaciĂłn de Arcturus Morningstar en su Ăşltima versiĂłn.
+
+
+infostand.button.savebranding=Save
+notifications.motd.title=Alerta
+
+help.cfh.reason.sex_and_pii=Condenido Sexual
+help.cfh.reason.trolling=Conducta Troll
+help.cfh.reason.interruption=Atrapa el Juego
+help.cfh.reason.room=Comportaimento Violento
+help.cfh.reason.help=Ayuda
+help.cfh.topic.7=Links inapropriados

@@ -1,0 +1,9 @@
+¡Bienvenid@ a Kekotel!
+<span class="padding-top"><br></span><img src="https://i.imgur.com/1v6jbt3.png"/></h1><span class="padding-top"><br><br></span>
+<span class="padding-top"><br></span><h1>Bienvenido a Kekotel:</h1><span class="padding-top"><br><br><br><br></span>
+<span class="padding-top"><br></span><p>Una comunidad llena de diversión y entretenimiento.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Recuerda respetar las reglas de Kekotel para evitar infracciones temporales o permanentes.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><h2>¿Cómo consigo Cerezas?</h2><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>En Kekotel recibes créditos y HC de forma gratuita, las cerezas se consiguen en eventos.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Recuerda que también debes participar en eventos para ganar premios mayores como las Cerezas, que te permitirán comprar <a href="event:catalog/open/guild_forum">rares</a> en el <a href="event:catalog/open/">catálogo</a>.</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br> </span><span class="padding-top"><br> </span><span class="padding-top"><br> </span><span class="padding-top"><br> </span><span class="padding-top"><br> </span><span class="padding-top"><br> </span><span class="padding-top"><br> </span>
