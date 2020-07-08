@@ -26,4 +26,5 @@
 	<!--- display it --->
 	<cffile action="readbinary" file="#imageDirectory#\#image#" variable="pic"/>
 	<cfcontent variable="#pic#">
+
 </cfif>
