@@ -204,13 +204,58 @@
   <effect id="198" lib="ZombieDuck" type="fx" revision="63413"/>
   <effect id="199" lib="Turtleride" type="fx" revision="64066"/>
 
-
-	<effect id="500" lib="BigSpn" type="fx" revision="90000"/>
-	<effect id="501" lib="SmallS" type="fx" revision="90000"/>
-	<effect id="502" lib="BigJmp" type="fx" revision="90000"/>
-	<effect id="503" lib="SmallJ" type="fx" revision="90000"/>
-	<effect id="507" lib="TrampolineTest" type="fx" revision="62175"/>
-	<effect id="509" lib="Trampolineb360" type="fx" revision="62175"/>
+<!-- EFEITOS EFEITOS CUSTOMS VÃO DO 500 AO 548/550/551/ -->
+<effect id="500" lib="BigSpn" type="fx" revision="62175"/> 
+<effect id="501" lib="SmallS" type="fx" revision="62175"/>
+<effect id="502" lib="BigJmp" type="fx" revision="62175"/>
+<effect id="503" lib="SmallJ" type="fx" revision="62175"/>
+<effect id="504" lib="Hoverplan1" type="fx" revision="62175"/>
+<effect id="505" lib="Hoverplan2" type="fx" revision="62175"/>
+<effect id="506" lib="Hoverplan3" type="fx" revision="62175"/>
+<effect id="507" lib="TrampolineTest" type="fx" revision="62175"/>
+<effect id="508" lib="Hoverplan4" type="fx" revision="62175"/>
+<effect id="509" lib="Trampolineb360" type="fx" revision="62175"/>
+<effect id="510" lib="Sable1" type="fx" revision="62175"/>
+<effect id="511" lib="Sable2" type="fx" revision="62175"/>
+<effect id="512" lib="Sable3" type="fx" revision="62175"/>
+<effect id="513" lib="Sable4" type="fx" revision="62175"/>
+<effect id="514" lib="Sable5" type="fx" revision="62175"/>
+<effect id="515" lib="Sable6" type="fx" revision="62175"/>
+<effect id="516" lib="Sable7" type="fx" revision="62175"/>
+<effect id="517" lib="AusentesBenjywHt" type="fx" revision="62175"/>
+<effect id="518" lib="PinkPlaneBW" type="fx" revision="62175"/>
+<effect id="519" lib="GrenPlaneBW" type="fx" revision="62175"/>
+<effect id="520" lib="YelwPlaneBW" type="fx" revision="62175"/>
+<effect id="521" lib="OrgnPlaneBW" type="fx" revision="62175"/>
+<effect id="522" lib="FlechitaOldSchOl" type="fx" revision="62175"/>
+<effect id="523" lib="Pgo" type="fx" revision="62175"/>
+<effect id="524" lib="LightTorc2" type="fx" revision="62175"/>
+<effect id="525" lib="LightTorc3" type="fx" revision="62175"/>
+<effect id="526" lib="LightTorc4" type="fx" revision="62175"/>
+<effect id="527" lib="LightTorc5" type="fx" revision="62175"/>
+<effect id="528" lib="LightTorc6" type="fx" revision="62175"/>
+<effect id="529" lib="Ambul" type="fx" revision="62175"/>
+<effect id="530" lib="Bat" type="fx" revision="62175"/>
+<effect id="531" lib="BlackFlame" type="fx" revision="62175"/>
+<effect id="532" lib="BlackpunkGun" type="fx" revision="62175"/>
+<effect id="533" lib="Bus" type="fx" revision="62175"/>
+<effect id="534" lib="Carstaff" type="fx" revision="62175"/>
+<effect id="535" lib="Cuf" type="fx" revision="62175"/>
+<effect id="536" lib="CyberstunGun" type="fx" revision="62175"/>
+<effect id="537" lib="DrugLeafOk" type="fx" revision="62175"/>
+<effect id="538" lib="FishingRod" type="fx" revision="62175"/>
+<effect id="539" lib="HoloRPGoldGun" type="fx" revision="62175"/>
+<effect id="540" lib="HoloRP666Gun" type="fx" revision="62175"/>
+<effect id="541" lib="HoloRPGun" type="fx" revision="62175"/>
+<effect id="542" lib="HoloRPPinkGun" type="fx" revision="62175"/>
+<effect id="543" lib="HoloRPPolice" type="fx" revision="62175"/>
+<effect id="544" lib="MagicDildo" type="fx" revision="62175"/>
+<effect id="545" lib="MedicalKit" type="fx" revision="62175"/>
+<effect id="546" lib="PickaxeRok" type="fx" revision="62175"/>
+<effect id="547" lib="Pika" type="fx" revision="62175"/>
+<effect id="548" lib="PinkFlame" type="fx" revision="62175"/>
+<effect id="550" lib="CTabletBlack" type="fx" revision="59221"/>
+<effect id="551" lib="Smokeweed" type="fx" revision="59220"/>
 	<effect id="656" lib="EmojiIn656" type="fx" revision="55555"/>
 	<effect id="657" lib="EmojiIn657" type="fx" revision="55555"/> 
 	<effect id="658" lib="EmojiIn658" type="fx" revision="55555"/> 
@@ -338,6 +383,23 @@
 	<effect id="763" lib="enableWibbo763" type="fx" revision="55555"/> 
 	<effect id="764" lib="enableWibbo764" type="fx" revision="55555"/>
     <effect id="765" lib="acc_shirt_go" type="fx" revision="55555"/>
+	
+	<!-- EFEITOS EFEITOS CUSTOMS VÃO DO 986 AO 999 -->
+<effect id="986" lib="Stupeficium" type="fx" revision="90000"/>
+<effect id="987" lib="Sectumsempra" type="fx" revision="90000"/>
+<effect id="988" lib="ProtegoHorribilis" type="fx" revision="90000"/>
+<effect id="989" lib="Protego" type="fx" revision="90000"/>
+<effect id="990" lib="Plasma" type="fx" revision="90000"/>
+<effect id="991" lib="Periculum" type="fx" revision="90000"/>
+<effect id="992" lib="Nimbus2001" type="fx" revision="90000"/>
+<effect id="993" lib="Nimbus2000" type="fx" revision="90000"/>
+<effect id="994" lib="Lumos" type="fx" revision="90000"/>
+<effect id="995" lib="Incarceramus" type="fx" revision="90000"/>
+<effect id="996" lib="Finge" type="fx" revision="90000"/>
+<effect id="997" lib="Coerceo" type="fx" revision="90000"/>
+<effect id="998" lib="AvadaKedavra" type="fx" revision="90000"/>
+<effect id="999" lib="Adultero" type="fx" revision="90000"/>
+	
 	<effect id="1000" lib="acc_0cc_des" type="fx" revision="62457"/>
 	<effect id="1002" lib="acc_shirt_go" type="fx" revision="62457"/>
 	<effect id="1004" lib="acc_pants_9srt" type="fx" revision="62457"/>
